@@ -7,7 +7,7 @@
   
 | Etapa | Desafio | Solução | Descrição |                          
 |:---:|:------------------------:|:-------:|:---------:|
-|  1  | Dividindo X por Y | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.1.%20Dvividindo%20X%20por%20Y/solucao.js) | [Leia-me]()
+|  1  | Dividindo X por Y | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.1.%20Dvividindo%20X%20por%20Y/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.1.%20Dvividindo%20X%20por%20Y/leia-me.md)
 |  2  | Distância | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.2.%20Dist%C3%A2ncia/solucao.js) | [Leia-me]()
 |  3  | Quanta Mandioca? | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/1.%20Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/1.3.%20Quanta%20Mandioca/solucao.js) | [Leia-me]()
 
