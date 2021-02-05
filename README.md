@@ -22,3 +22,7 @@
 |  5  | Teorema da Divisão Euclidiana | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/2.%20Problemas%20Aritm%C3%A9ticos/2.5.%20Teorema%20da%20Divis%C3%A3o%20Euclidiana/solucao.js) |
 
 </details>
+
+### :memo: Licença
+
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para saber mais detalhes.
