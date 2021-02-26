@@ -31,6 +31,15 @@
 |  4  | Validação de Nota | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/3.4.%20Valida%C3%A7%C3%A3o%20de%20Nota/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/3.4.%20Valida%C3%A7%C3%A3o%20de%20Nota/validacao-de-nota.md)
 |  5  | Pedro Bento e o Mundo de OZ | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/3.5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/3.%20Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/3.5.%20Pedro%20Bento%20e%20o%20Mundo%20de%20OZ/pedro-bento-e-o-mundo-de-oz.md)
 
+<h3 align="left">Busca e Laços de Repetição</h3>
+
+|:---:|:------------------------:|:-------:|:----------:|
+|  1  | O Escolhido | [Código]() | [Leia-me]()
+|  2  | Comunicação em Piralândia | [Código]() | [Leia-me]()
+|  3  | Degustação de vinho | [Código]() | [Leia-me]()
+|  4  | Pink e Cérebro | [Código]() | [Leia-me]()
+|  5  | Menor e Posição | [Código]() | [Leia-me]()
+
 </details>
 
 ### :memo: Licença
