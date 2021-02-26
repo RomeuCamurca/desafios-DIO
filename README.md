@@ -33,6 +33,7 @@
 
 <h3 align="left">Busca e Laços de Repetição</h3>
 
+| Etapa | Desafio | Solução | Descrição |
 |:---:|:------------------------:|:-------:|:----------:|
 |  1  | O Escolhido | [Código]() | [Leia-me]()
 |  2  | Comunicação em Piralândia | [Código]() | [Leia-me]()
