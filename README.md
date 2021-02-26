@@ -35,11 +35,11 @@
 
 | Etapa | Desafio | Solução | Descrição |
 |:---:|:------------------------:|:-------:|:----------:|
-|  1  | O Escolhido | [Código]() | [Leia-me]()
-|  2  | Comunicação em Piralândia | [Código]() | [Leia-me]()
-|  3  | Degustação de vinho | [Código]() | [Leia-me]()
-|  4  | Pink e Cérebro | [Código]() | [Leia-me]()
-|  5  | Menor e Posição | [Código]() | [Leia-me]()
+|  1  | O Escolhido | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.1.%20O%20Escolhido/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.1.%20O%20Escolhido/o-escolhido.md)
+|  2  | Comunicação em Piralândia | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.2.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.2.%20Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia/comunicacao-em-piralandia.md)
+|  3  | Degustação de vinho | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.3.%20Degusta%C3%A7%C3%A3o%20de%20Vinho/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.3.%20Degusta%C3%A7%C3%A3o%20de%20Vinho/degustacao-de-vinho.md)
+|  4  | Pink e Cérebro | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.4.%20Pink%20e%20C%C3%A9rebro/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.4.%20Pink%20e%20C%C3%A9rebro/pink-e-cerebro.md)
+|  5  | Menor e Posição | [Código](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.5.%20Menor%20e%20Posi%C3%A7%C3%A3o/solucao.js) | [Leia-me](https://github.com/RomeuCamurca/desafios-DIO/blob/main/Desafios/JavaScript/4.%20Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/4.5.%20Menor%20e%20Posi%C3%A7%C3%A3o/menor-e-posicao.md)
 
 </details>
 
